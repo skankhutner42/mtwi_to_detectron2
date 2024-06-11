@@ -189,5 +189,5 @@ cython_debug/
 #.idea/
 
 MTWI2018/
-
+.idea/
 detectron2_format.json
